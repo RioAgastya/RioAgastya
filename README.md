@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RioAgastya
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python and SQL
+- 👀 I’m interested in Fornt-End Developer
+- 🌱 I’m currently learning HTML, CSS and JS
 
 
 <!---
