@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @RioAgastya
-- 👀 I’m interested in Front-End Developer
-- 🌱 I’m currently learning HTML, CSS and JS
+- 👋 Hi, I’m Rio Agastya
+- 👀 I’m interested in Data Engineer
+- 🌱 I’m currently learning Python, SQL, Flask
 
 
 <!---
