@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rio Agastya
 - 👀 I’m interested in Data Engineer
-- 🌱 I’m currently learning Python, SQL, Flask
+- 🌱 I’m currently learning Python, SQL, Flask, HTML, Bootstrap, JavaScript
 
 
 <!---
